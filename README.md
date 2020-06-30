@@ -1,5 +1,6 @@
 # Bureaucratic Locus of Control
 Kerenssa Kay, Daniel Rogger, and Iman Sen
+
 June 2020
 
 ## Notes
