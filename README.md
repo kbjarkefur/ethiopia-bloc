@@ -11,9 +11,11 @@ To protect the anonymity of Civil Servants in Ethiopia, we have not included any
 The public data only includes variables that are used in the analysis of the Bureaucratic Locus of Control, and to show the relationship with outcomes such as performance and motivation.
 
 ## Instructions for Replication
-1.	Run do files from within the “Code” folder after extracting the zipped folder and files. Please note the data files should be in the same folder as the do files.
-2.	To reconstruct some of the outputs in the paper run the do file: “001_Master.do”. This will run all the other do files in sequence.
-3.	All regression output and figures will be saved in the “Output” folder.
+1. Click on the "Clone" button on the top left corner of this page to Clone the repository to GitHub desktop or Download a ZIP file with its contents.
+1. If you chose to download a ZIP file, extract the zipped folder and files. 
+1. To run the code, the data file should be in the same folder as the do files.
+1. To reconstruct some of the outputs in the paper run the do file: “001_Master.do”. This will run all the other do files in sequence.
+1. All regression output and figures will be saved in the “Output” folder.
 
 ## File List
 -	Ethiopia_Civil_Servants_data_public.dta: Cleaned and de-identified Ethiopia Civil Servants data containing variables needed to recreate the outputs shown
