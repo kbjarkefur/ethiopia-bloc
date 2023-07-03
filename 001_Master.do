@@ -4,6 +4,9 @@
 
 //Main.do runs the other do files in sequence
 
+//Set your root path to the GitHub clone
+cd ""
+
 //Create these directories for the outputs
 //Make a directory called Output which will contain all regression output and figures
 capture mkdir "Output"
@@ -12,6 +15,9 @@ capture mkdir "Output"
 //Run the do files in this order
 //Need the command "ineqdeco" installed before running
 ssc install ineqdeco
+
+* Command outreg2 is needed
+ssc install outreg2
  
 do 002_Create_indices_and_variables.do
 do 003_BLOC_analysis_main_paper.do
